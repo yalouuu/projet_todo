@@ -3,9 +3,9 @@
 
 ## Identification
 
-- **Nom et prénom :** [À compléter]
-- **Lien du fork :** [À compléter]
-- **Branche de travail :** evaluation-tests-audit
+- **Nom et prénom :** Yaelle PELERIN
+- **Lien du fork :** https://github.com/yalouuu/projet_todo
+- **Branche de travail :** https://github.com/yalouuu/projet_todo/tree/evaluation-tests-audit
 
 ## Travail rendu
 
@@ -17,10 +17,10 @@ Cette PR contient le plan de tests, les tests end-to-end Cypress en AAA et l’a
 
 **Liens vers les livrables sur ma branche**
 
-- Plan de tests : [coller le lien GitHub vers plan_test.md]
-- Tests Cypress : [coller le lien vers le dossier cypress/e2e/]
-- Audit : [coller le lien GitHub vers audit.md]
-- Preuves d’exécution : [coller le lien vers le dossier resultats/]
+- Plan de tests : [\[coller le lien GitHub vers plan_test.md\]](https://github.com/yalouuu/projet_todo/blob/evaluation-tests-audit/plan_test.md)
+- Tests Cypress : [\[coller le lien vers le dossier cypress/e2e/\]](https://github.com/yalouuu/projet_todo/tree/evaluation-tests-audit/cypress)
+- Audit : /
+- Preuves d’exécution : /
 
 Les commandes de lancement et la préparation des données sont indiquées dans `audit.md`.
 

@@ -1,0 +1,48 @@
+## Identification
+
+- **Nom et prénom :** Yaelle PELERIN
+- **Lien du fork :** https://github.com/yalouuu/projet_todo
+- **Branche de travail :** https://github.com/yalouuu/projet_todo/tree/evaluation-tests-audit
+
+## Travail rendu
+
+Cette PR contient le plan de tests, les tests end-to-end Cypress en AAA et l’audit des fonctionnalités suivantes :
+
+- Inscription : `/register`.
+- Ajout d’une tâche : `/task/new`.
+- Liste des tâches en cours : `/task/activeall`.
+
+**Liens vers les livrables sur ma branche**
+
+- Plan de tests : [\[coller le lien GitHub vers plan_test.md\]](https://github.com/yalouuu/projet_todo/blob/evaluation-tests-audit/plan_test.md)
+- Tests Cypress : [\[coller le lien vers le dossier cypress/e2e/\]](https://github.com/yalouuu/projet_todo/tree/evaluation-tests-audit/cypress)
+- Audit : /
+- Preuves d’exécution : /
+
+Les commandes de lancement et la préparation des données sont indiquées dans `audit.md`.
+
+## Bilan des tests
+
+Comptez les neuf cas du sujet, sans inclure l’exemple catégorie. Chaque ligne doit totaliser neuf cas.
+
+| Passage | Réussis | Échoués | Bloqués | Non exécutés |
+| --- | --- | --- | --- | --- |
+| Premier lancement | [Nombre] | [Nombre] | [Nombre] | [Nombre] |
+| Relance | [Nombre] | [Nombre] | [Nombre] | [Nombre] |
+
+**Principaux constats**
+
+[Résumez en quelques lignes ce qui fonctionne, les problèmes rencontrés et les éventuelles différences entre les deux passages. Les détails sont dans audit.md.]
+
+## Vérification avant rendu
+
+- [ ] La PR compare `evaluation-tests-audit` à `main` dans **mon propre fork**.
+- [ ] Les neuf cas du sujet figurent dans `plan_test.md`, avec leurs résultats réels.
+- [ ] Les tests Cypress et leur configuration sont présents ; les cas non automatisés sont signalés dans l’audit.
+- [ ] Les tests utilisent les étapes Arrange, Act et Assert.
+- [ ] J’ai préparé les comptes, les catégories et les tâches nécessaires.
+- [ ] J’ai lancé la suite puis effectué une relance, et conservé les preuves disponibles.
+- [ ] L’audit décrit les problèmes, les limites et une conclusion justifiée.
+- [ ] Les liens ci-dessus permettent d’accéder aux livrables.
+- [ ] Aucun dossier `node_modules/`, `vendor/` ou secret personnel n’est ajouté.
+- [ ] Je laisse la PR ouverte pour la correction et je transmets les liens par email selon les consignes du formateur.
